@@ -1,0 +1,15 @@
+# Xcode / Swift Package Manager
+.build/
+build/
+DerivedData/
+.swiftpm/
+
+# macOS System Files
+.DS_Store
+*.swp
+*~
+
+# Credentials & Local Environment
+.env
+*.token
+*.key
